@@ -1,0 +1,23 @@
+
+<h3> Add New Employee </h3>
+
+<form>
+  <span class="form_controller">
+    <label>Employee name : </label>
+   <input type="text" #empName > &nbsp; <button class="btn btn-success" (click)="add(empName.value); empName.value=''">Add</button>
+  </span>
+</form>
+<br/>
+<!-- <ul class="employee">
+    <li *ngFor="let employee of employeeArr" >
+      <span class="badge">{{employee.id}}</span> <span>{{employee.name}}</span>
+    </li>
+  </ul> -->
+
+  <ul class="employee">
+      <li *ngFor="let emp of employeeArr" >
+        <span class="badge">{{emp.id}}</span> {{emp.name}}
+      </li>
+    </ul>
+    
+    

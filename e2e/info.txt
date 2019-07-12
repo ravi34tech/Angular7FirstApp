@@ -1,0 +1,26 @@
+
+
+Application building 
+    https://stackblitz.com/angular/lmgykpjrlvlm
+
+
+Forms
+    https://angular.io/guide/user-input
+
+
+Http 
+    https://angular.io/guide/http
+
+
+Proxy server configuration
+    https://juristr.com/blog/2016/11/configure-proxy-api-angular-cli/
+
+
+Angular-Springboot Application
+    https://www.evoketechnologies.com/blog/integrate-angular-spring-boot-restful-api/
+    https://www.djamware.com/post/5b87894280aca74669894414/angular-6-httpclient-consume-restful-api-example
+    https://chariotsolutions.com/blog/post/angular-2-spring-boot-jwt-cors_part1/
+
+    
+
+
